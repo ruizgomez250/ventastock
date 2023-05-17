@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content>
+	<!-- By default, we use the user's preferred measurement system (imperial or metric), as set in
+       Control Panel->Regional Settings, to determine the pageset.  Here we override this behaviour
+       for certain locations.  Geoids are compared against the return value of Win32's GetUserGeoID().
+  -->
+	<locales>
+		<map geoid="CA">imperial</map><!--Canada-->
+		<map geoid="JP">Japan</map><!--Japan-->
+		<map geoid="MX">imperial</map><!--Mexico-->
+	</locales>
+	<destinations><destination id="2" guid="2800f713-0815-44f5-85df-cb7fdde49c3c" name="RGB predeterminadas" colorMode="RGB" dpi="300" numberOfPages="1" rgbProf="sRGB IEC61966-2.1" cmykProf="U.S. Web Coated (SWOP) v2" grayProf="Dot Gain 20%" renderingIntent="RelativeColorimetric" preview="Enhanced"><preferred><size id="15"/><size id="14"/><size id="3"/><size id="4"/><size id="5"/></preferred></destination><destination id="0" guid="410454d7-30cf-38a5-49cc-73d1a692b9da" name="Personalizar" width="2100000" height="2970000" unit="2" colorMode="CMYK" dpi="300" numberOfPages="1" rgbProf="sRGB IEC61966-2.1" cmykProf="U.S. Web Coated (SWOP) v2" grayProf="Dot Gain 20%" renderingIntent="RelativeColorimetric" preview="Enhanced"><preferred><size id="15"/></preferred></destination><destination id="3" guid="74603c63-81af-461e-b3b9-8743ed88a5b7" name="CMYK predeterminadas" colorMode="CMYK" dpi="300" numberOfPages="1" rgbProf="sRGB IEC61966-2.1" cmykProf="U.S. Web Coated (SWOP) v2" grayProf="Dot Gain 20%" renderingIntent="RelativeColorimetric" preview="Enhanced"><preferred><size id="15"/><size id="14"/><size id="3"/><size id="4"/><size id="5"/></preferred></destination><destination id="4" guid="e90c3134-fb3a-4389-95ee-531ddd826a01" name="Web" colorMode="RGB" dpi="96" numberOfPages="1" rgbProf="sRGB IEC61966-2.1" cmykProf="U.S. Web Coated (SWOP) v2" grayProf="Gray Gamma 22.icc" renderingIntent="RelativeColorimetric" preview="Enhanced"><preferred><size id="57"/><size id="58"/><size id="59"/><size id="60"/><size id="61"/></preferred></destination></destinations><mrulist><destination guid="e2107ebc-f588-46a2-4c90-68db9cbcc70b"/></mrulist><last guid="e2107ebc-f588-46a2-4c90-68db9cbcc70b"/></content>

@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<regions>
+  <region name="Asia">
+    <geoID ID="SG"/> <!-- Singapore -->
+    <geoID ID="KR"/> <!-- Korea -->
+    <geoID ID="KP"/> <!-- North Korea -->
+    <geoID ID="JP"/> <!-- Japan -->
+    <geoID ID="TH"/> <!-- Thailand -->
+    <geoID ID="TW"/> <!-- Taiwan -->
+    <geoID ID="ID"/> <!-- Indonesia -->
+    <geoID ID="HK"/> <!-- Hong Kong -->
+    <geoID ID="CN"/> <!-- China -->
+  </region>
+  
+  <region name="EuropeMiddleEast">
+    <geoID ID="GB"/> <!-- United Kingdom -->
+    <geoID ID="UA"/> <!-- Ukraine -->
+    <geoID ID="TR"/> <!-- Turkey -->
+    <geoID ID="SA"/> <!-- Saudi Arabia -->
+    <geoID ID="AT"/> <!-- Austria -->
+    <geoID ID="BE"/> <!-- Belgium -->
+    <geoID ID="BY"/> <!-- Belarus -->
+    <geoID ID="BG"/> <!-- Bulgaria -->
+    <geoID ID="CY"/> <!-- Cyprus -->
+    <geoID ID="DK"/> <!-- Denmark -->
+    <geoID ID="EG"/> <!-- Egypt -->
+    <geoID ID="IE"/> <!-- Ireland -->
+    <geoID ID="GQ"/> <!-- Equatorial Guinea -->
+    <geoID ID="EE"/> <!-- Estonia -->
+    <geoID ID="CZ"/> <!-- Czech Republic -->
+    <geoID ID="FI"/> <!-- Finland -->
+    <geoID ID="FR"/> <!-- France -->
+    <geoID ID="DE"/> <!-- Germany -->
+    <geoID ID="GR"/> <!-- Greece -->
+    <geoID ID="HR"/> <!-- Croatia -->
+    <geoID ID="HU"/> <!-- Hungary -->
+    <geoID ID="IS"/> <!-- Iceland -->
+    <geoID ID="IN"/> <!-- India -->
+    <geoID ID="IR"/> <!-- Iran -->
+    <geoID ID="IL"/> <!-- Israel -->
+    <geoID ID="IT"/> <!-- Italy -->
+    <geoID ID="IQ"/> <!-- Iraq -->
+    <geoID ID="JO"/> <!-- Jordan -->
+    <geoID ID="LV"/> <!-- Latvia -->
+    <geoID ID="LT"/> <!-- Lithuania -->
+    <geoID ID="SK"/> <!-- Slovakia -->
+    <geoID ID="LU"/> <!-- Luxembourg -->
+    <geoID ID="NL"/> <!-- Netherlands -->
+    <geoID ID="PL"/> <!-- Poland -->
+    <geoID ID="PT"/> <!-- Portugal -->
+    <geoID ID="QA"/> <!-- Qatar -->
+    <geoID ID="RO"/> <!-- Romania -->
+    <geoID ID="RU"/> <!-- Russia -->
+    <geoID ID="ES"/> <!-- Spain -->
+    <geoID ID="SE"/> <!-- Sweden -->
+    <geoID ID="CH"/> <!-- Switzerland -->
+    <geoID ID="AE"/> <!-- United Arab Emirates -->
+    <geoID ID="RS"/> <!-- Serbia -->
+  </region>    
+</regions>

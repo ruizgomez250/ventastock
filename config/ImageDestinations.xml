@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<content>
+  <destinations>
+    <destination id="2"
+                 name="Photos"
+                 colorMode="RGB"
+                 dpi="300">
+      <preferred system="metric">
+        <size id="13" /> <!-- 100x150mm -->
+        <size id="14" /> <!-- 130x180mm -->
+      </preferred>
+      <preferred system="imperial">
+        <size id="4" /> <!-- 8x10 -->
+        <size id="3" /> <!-- 5x7 -->
+        <size id="2" /> <!-- 4x6 -->
+        <size id="1" /> <!-- 3x5 -->
+      </preferred>
+      <preferred system="Japan">
+        <size id="28" /> <!-- L -->
+        <size id="26" /> <!-- 2L -->
+        <size id="25" /> <!-- 2L Wide -->
+      </preferred>
+    </destination>
+    <destination id="3"
+                 name="Default CMYK"
+                 colorMode="CMYK"
+                 dpi="300">
+      <preferred system="metric">
+        <size id="12" /> <!-- A3 -->
+        <size id="11" /> <!-- A4 -->
+        <size id="34" /> <!-- A5 -->
+      </preferred>
+      <preferred system="imperial">
+        <size id="8" />  <!-- Letter  -->
+        <size id="9" />  <!-- Legal   -->
+        <size id="10" /> <!-- Tabloid -->
+      </preferred>
+      <preferred system="Japan">
+        <size id="12" /> <!-- A3 -->
+        <size id="11" /> <!-- A4 -->
+        <size id="34" /> <!-- A5 -->
+      </preferred>
+    </destination>
+    <destination id="4"
+                 name="Web"
+                 colorMode="RGB"
+                 dpi="96">
+      <preferred>
+        <size id="7" />
+        <!-- 1024x768 -->
+        <size id="35" />
+        <!-- 960x960 -->
+        <size id="36" />
+        <!-- 728x90 -->
+        <size id="37" />
+        <!-- 300x250 -->
+        <size id="38" />
+        <!-- 160x600 -->
+      </preferred>
+    </destination>
+  </destinations>
+
+  <!-- By default, we use the user's preferred measurement system (imperial or metric), as set in
+       Control Panel->Regional Settings, to determine the pageset.  Here we override this behaviour
+       for certain locations.  Geoids are compared against the return value of Win32's GetUserGeoID().
+  -->
+  <locales>
+    <map geoid="CA">imperial</map>   <!--Canada-->
+    <map geoid="MX">imperial</map>  <!--Mexico-->
+    <map geoid="JP">Japan</map>     <!--Japan-->
+    <map geoid="CN">Japan</map>      <!--China-->
+    <map geoid="KR">Japan</map>     <!--Korea-->
+    <map geoid="TW">Japan</map>     <!--Taiwan-->
+  </locales>
+</content>

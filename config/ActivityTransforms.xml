@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tracking>
+
+	<!-- See parser inplemented in CrlUtl engine, TrackingSystemImpl::ParseStartElement -->
+	<!-- for definition of what to put in here. -->
+	<activities>
+		
+		<!-- Readable names for the currently active tool -->
+		<activity name="FrameRoot::WAppDataSource::ActiveTool">
+			<!-- <property name="control" value="groupedRadioButton" replaceWith="ToolSelector"/> -->
+			<property name="setValue" value="faf6d5d5-1ecf-41aa-aabe-3e83cfc85fb7" replaceWith="Polyline" appendtoActivity="true"/>
+			<property name="setValue" value="072429d7-05de-4dc8-b82d-31eb8ec69911" replaceWith="CircleCenterPoint" appendtoActivity="true"/>
+			<property name="setValue" value="dea66ede-736f-4d16-98e8-2efcafe20a48" replaceWith="CircleCenterRadius" appendtoActivity="true"/>
+			<property name="setValue" value="23217468-2a84-4bed-8c83-72a8153e92c7" replaceWith="CircleThreePoints" appendtoActivity="true"/>
+			<property name="setValue" value="39243caf-50fd-4d48-8d57-6c2d155f8f51" replaceWith="3PointCurve" appendtoActivity="true"/>
+			<property name="setValue" value="f1aee54d-c9aa-4e6f-9193-82f496b0b72b" replaceWith="Pick" appendtoActivity="true"/>
+			<property name="setValue" value="fb9a380a-4bbb-23bd-4e45-2eeed3e485b1" replaceWith="FreehandPick" appendtoActivity="true"/>
+			<property name="setValue" value="a7119a39-ad15-47d8-b06f-7f29617bfc0f" replaceWith="FreeTransform" appendtoActivity="true"/>
+			<property name="setValue" value="ae9f4ba1-2406-4dbc-b119-c12f9cca17f7" replaceWith="Shape" appendtoActivity="true"/>
+			<property name="setValue" value="6f4dfa2b-d31a-7892-4aa6-e55ff1bcddbb" replaceWith="Smooth" appendtoActivity="true"/>
+			<property name="setValue" value="3faedeeb-3675-729a-442e-28c2f58c6eff" replaceWith="Smear" appendtoActivity="true"/>
+			<property name="setValue" value="c5dce714-953f-6094-459d-2c17c0e69d2c" replaceWith="Twirl" appendtoActivity="true"/>
+			<property name="setValue" value="fb587552-ca1b-08a4-4950-a50a7a0083bc" replaceWith="Attract" appendtoActivity="true"/>
+			<property name="setValue" value="4e560b2f-b1c3-f9a5-4012-4e74770e5e0c" replaceWith="Repel" appendtoActivity="true"/>
+			<property name="setValue" value="c3157ceb-770b-4857-8477-419a4ab5451e" replaceWith="Crop" appendtoActivity="true"/>
+			<property name="setValue" value="f2edc14d-75cf-3eb9-4580-4d85629af1f9" replaceWith="Knife" appendtoActivity="true"/>
+			<property name="setValue" value="11e3cea8-0762-4f22-9e7e-900dd1399a1d" replaceWith="VirtualSegmentDelete" appendtoActivity="true"/>
+			<property name="setValue" value="3eca6bde-798a-4b0d-b994-f14f22375a6c" replaceWith="Eraser" appendtoActivity="true"/>
+			<property name="setValue" value="5f1c9019-0140-4fb4-aaf8-961bccda18d2" replaceWith="Zoom" appendtoActivity="true"/>
+			<property name="setValue" value="a34b8f68-3a88-4a65-8ce2-5808e9dbde22" replaceWith="Pan" appendtoActivity="true"/>
+			<property name="setValue" value="a4561afd-624f-4943-bb8e-feb4e7bb89b7" replaceWith="Freehand" appendtoActivity="true"/>
+			<property name="setValue" value="7c391635-ddb3-45b6-b62b-66827f20547c" replaceWith="2PointLine" appendtoActivity="true"/>
+			<property name="setValue" value="9462a0c7-bd9c-4972-869e-7a13352dc9cd" replaceWith="Bezier" appendtoActivity="true"/>
+			<property name="setValue" value="6a131f1c-82eb-4b30-9479-d3efcdf3b78d" replaceWith="Pen" appendtoActivity="true"/>
+			<property name="setValue" value="b0afd160-27bc-40e1-a197-8cf43510a9d1" replaceWith="BSpline" appendtoActivity="true"/>
+			<property name="setValue" value="66816bbe-aba7-49b5-b3f2-760fa2544eae" replaceWith="SmartDrawing" appendtoActivity="true"/>
+			<property name="setValue" value="5d09b650-fdad-462e-93c0-12859111f480" replaceWith="ArtisticMedia" appendtoActivity="true"/>
+			<property name="setValue" value="1a105015-994f-44cc-b29c-2e23d6765870" replaceWith="Rectangle" appendtoActivity="true"/>
+			<property name="setValue" value="7593c3e1-5cb3-4993-83d8-cb9938ca7ab9" replaceWith="3PointRectangle" appendtoActivity="true"/>
+			<property name="setValue" value="1810af9f-140f-4b22-945a-7087ba60ee91" replaceWith="Ellipse" appendtoActivity="true"/>
+			<property name="setValue" value="0b4cd8b0-f5bf-47c4-9072-f17bc053d2ef" replaceWith="3PointEllipse" appendtoActivity="true"/>
+			<property name="setValue" value="8a8221f7-354d-4d88-be12-8e15c97e788a" replaceWith="Polygon" appendtoActivity="true"/>
+			<property name="setValue" value="DDA23C6E-CB19-4BDC-8E9C-1E3082D99BB7" replaceWith="Star" appendtoActivity="true"/>
+			<property name="setValue" value="0cedd43c-d6c1-4613-9839-5d00676c8f08" replaceWith="GraphPaper" appendtoActivity="true"/>
+			<property name="setValue" value="98987710-ab20-498b-8925-34373b2d9ddd" replaceWith="Spiral" appendtoActivity="true"/>
+			<property name="setValue" value="1597ce95-d39d-4135-92d1-f3dbcaecd8bc" replaceWith="BasicShapes" appendtoActivity="true"/>
+			<property name="setValue" value="f18c88cf-521a-404d-8dfd-f094e75e494c" replaceWith="ArrowShapes" appendtoActivity="true"/>
+			<property name="setValue" value="44e4cc8b-d33b-4937-a206-f4b58656c6bd" replaceWith="FlowchartShapes" appendtoActivity="true"/>
+			<property name="setValue" value="2b5936c5-adb7-4601-adb0-86e941bbd2ae" replaceWith="BannerShapes" appendtoActivity="true"/>
+			<property name="setValue" value="2e84769a-0be6-48ac-80cc-ae3d1fa03c24" replaceWith="CalloutShapes" appendtoActivity="true"/>
+			<property name="setValue" value="927a2b18-0239-410b-9bb4-3befd7186abb" replaceWith="Text" appendtoActivity="true"/>
+			<property name="setValue" value="5507c778-4c9f-4933-b35f-9b6a15e084ec" replaceWith="Table" appendtoActivity="true"/>
+			<property name="setValue" value="01d4cd94-062d-4ebd-4f1c-d11dadeba76b" replaceWith="ParallelDimension" appendtoActivity="true"/>
+			<property name="setValue" value="6dae63ae-e6cb-7281-4674-327dd00c9b0a" replaceWith="HorzVertDimension" appendtoActivity="true"/>
+			<property name="setValue" value="01c74da9-519f-f389-4368-b403356345ba" replaceWith="AngularDimension" appendtoActivity="true"/>
+			<property name="setValue" value="998d385b-2b7c-49a5-4315-bfe6f8c5b230" replaceWith="SegmentDimension" appendtoActivity="true"/>
+			<property name="setValue" value="34bc1f24-e3df-40f7-995d-15133e220d4f" replaceWith="2PointCallout" appendtoActivity="true"/>
+			<property name="setValue" value="71ed077c-c0ba-44ce-8969-6d868224249c" replaceWith="3PointCallout" appendtoActivity="true"/>
+			<property name="setValue" value="c53ca24d-d4c2-4cfa-b0cb-521015c1683b" replaceWith="4PointCallout" appendtoActivity="true"/>
+			<property name="setValue" value="07d6737c-4412-b082-44bf-ec884a943b78" replaceWith="StraightLineConnector" appendtoActivity="true"/>
+			<property name="setValue" value="52514481-6801-efbc-4573-7e322821b836" replaceWith="RightAngleConnector" appendtoActivity="true"/>
+			<property name="setValue" value="e305fd14-53a6-2fb7-4c0d-f3e256de62dc" replaceWith="RoundedRightAngleConnector" appendtoActivity="true"/>
+			<property name="setValue" value="60f47f20-3051-4b9b-49d8-1cc38f59846f" replaceWith="EditAnchor" appendtoActivity="true"/>
+			<property name="setValue" value="0666b943-f65a-4e19-97ba-996c98e8b7f3" replaceWith="Roughen" appendtoActivity="true"/>
+			<property name="setValue" value="3ceaf4f4-94d0-43f1-a987-ae5c0790b712" replaceWith="Smudge" appendtoActivity="true"/>
+			<property name="setValue" value="e65d1597-722d-4afb-82fe-964d7ddff531" replaceWith="DropShadow" appendtoActivity="true"/>
+			<property name="setValue" value="441d6b88-877e-4d00-951f-4521b9987650" replaceWith="Contour" appendtoActivity="true"/>
+			<property name="setValue" value="d72c98e8-59be-4a31-b9db-1d0e83bdd218" replaceWith="Blend" appendtoActivity="true"/>
+			<property name="setValue" value="f42edc69-976b-4917-802a-1c4fed6297ef" replaceWith="Distort" appendtoActivity="true"/>
+			<property name="setValue" value="1f16cb33-9819-4fa7-a3cd-5c4d61ba2db2" replaceWith="Envelope" appendtoActivity="true"/>
+			<property name="setValue" value="c5555cfc-1c54-4c5b-ad28-60a4ec569798" replaceWith="Extrude" appendtoActivity="true"/>
+			<property name="setValue" value="b4b2ecec-4dc4-4c76-aa55-abcb1c862cde" replaceWith="Transparency" appendtoActivity="true"/>
+			<property name="setValue" value="c109a053-50ab-4943-8edc-d374ec153e7e" replaceWith="EyedropperColor" appendtoActivity="true"/>
+			<property name="setValue" value="abf0e5e9-f580-41a7-af61-d8f1039ffcaf" replaceWith="EyedropperFill" appendtoActivity="true"/>
+			<property name="setValue" value="87bf2821-a06a-42ff-b5ca-bc7ae2d64e10" replaceWith="EyedropperObjectAttributes" appendtoActivity="true"/>
+			<property name="setValue" value="2c6e4e57-30d5-412a-bcc7-3c932dc7d7ad" replaceWith="InteractiveFill" appendtoActivity="true"/>
+			<property name="setValue" value="8f3b40f1-ced9-4efa-9295-0d048c88db58" replaceWith="MeshFill" appendtoActivity="true"/>
+			<property name="setValue" value="af052244-1121-4a82-b0d2-194106db742a" replaceWith="SmartFill" appendtoActivity="true"/>
+			<property name="setValue" value="874d2621-3a80-96b4-436e-e9f11b74bf02" replaceWith="ContemporaryEffects" appendtoActivity="true"/>
+		</activity>
+
+		<!-- Readable names for selecting extensions from applauncher -->
+		<activity name="FrameRoot::ExtensionManagerDS::SelectedPrimaryExtension">
+			<property name="setValue" value="03687a21-eb94-d8a8-4fe6-a2c8b5251210" replaceWith="PhotoCocktail"/>
+			<property name="setValue" value="874d2621-3a80-96b4-436e-e9f11b74bf02" replaceWith="ContemporaryEffects"/>
+			<property name="setValue" value="e843ffba-62f7-4bd1-847d-31aefb483429" replaceWith="CalendarWizard"/>
+			<property name="setValue" value="2f7e0da0-bf8c-4a71-8ede-a1d00a125d87" replaceWith="BorderAndGrommet"/>
+			<property name="setValue" value="be1393f3-aa09-45ee-9aea-2e45226ea73d" replaceWith="ColorChartCreator"/>
+			<property name="setValue" value="fc610c66-bad4-44cb-a418-49165d0602aa" replaceWith="ConvertAllToCurves"/>
+			<property name="setValue" value="b6db8bd9-ea1c-4d69-8e1e-3ed7ed8f7a2d" replaceWith="FileConverter"/>
+			<property name="setValue" value="d509273d-5975-4481-a6a2-e4351cd7bbd6" replaceWith="Pointilizer"/>
+			<property name="setValue" value="df98ef53-14bb-f1b2-48fb-2c29a5b53a8b" replaceWith="Watermark"/>
+		</activity>
+
+		<!-- Readable names for selecting extensions from applauncher -->
+		<activity name="FrameRoot::UIMgr::docker:102052d9-0a87-481a-af3b-00f1bce81f9f" replaceWith="FrameRoot::UIMgr::docker:ObjectProperties"/>
+
+		<!-- Readable names for dockers -->
+		<activity name="FrameRoot::UIMgr::docker:e79e3cf2-c93d-4694-b463-f2f7113872e8" replaceWith="FrameRoot::UIMgr::docker:ArtisticMedia"/>
+		<activity name="FrameRoot::UIMgr::docker:155feb2c-56dc-4a8c-9362-9ab38561b267" replaceWith="FrameRoot::UIMgr::docker:Blend"/>
+		<activity name="FrameRoot::UIMgr::docker:b9fa0ab0-e60e-38a0-443d-37f0488d6aa8" replaceWith="FrameRoot::UIMgr::docker:Contour"/>
+		<activity name="FrameRoot::UIMgr::docker:2191be05-845e-4ee1-8d61-c036f492fee8" replaceWith="FrameRoot::UIMgr::docker:Envelope"/>
+		<activity name="FrameRoot::UIMgr::docker:7b49396f-f989-c087-4ed9-de2b835dcf68" replaceWith="FrameRoot::UIMgr::docker:AlignAndDistribute"/>
+		<activity name="FrameRoot::UIMgr::docker:102052d9-0a87-481a-af3b-00f1bce81f9f" replaceWith="FrameRoot::UIMgr::docker:ObjectProperties"/>
+		<activity name="FrameRoot::UIMgr::docker:8151bb6c-2ec0-84b7-4d1e-a379eabd0156" replaceWith="FrameRoot::UIMgr::docker:Internet"/>
+		<activity name="FrameRoot::UIMgr::docker:5e850daf-af40-d480-4201-10e9cf35b841" replaceWith="FrameRoot::UIMgr::docker:ColorStyles"/>
+		<activity name="FrameRoot::UIMgr::docker:dbda185b-ac02-f6b4-4052-654348a46a39" replaceWith="FrameRoot::UIMgr::docker:ObjectStyles"/>
+		<activity name="FrameRoot::UIMgr::docker:a3f597ca-e079-ab88-4e2f-28a3b4db6d8e" replaceWith="FrameRoot::UIMgr::docker:TextProperties"/>
+		<activity name="FrameRoot::UIMgr::docker:07fb80fc-12a5-42b7-97d3-6703f7e8413d" replaceWith="FrameRoot::UIMgr::docker:UndoManager"/>
+		<activity name="FrameRoot::UIMgr::docker:799476ff-2b80-43cb-b51a-a31ac9141618" replaceWith="FrameRoot::UIMgr::docker:ObjectDataManager"/>
+		<activity name="FrameRoot::UIMgr::docker:18d6991b-8ef8-4b48-be1a-d55f769648a9" replaceWith="FrameRoot::UIMgr::docker:ViewManager"/>
+		<activity name="FrameRoot::UIMgr::docker:454fda4e-4634-4079-8534-17797a64dfae" replaceWith="FrameRoot::UIMgr::docker:Color"/>
+		<activity name="FrameRoot::UIMgr::docker:a2f385ec-72c6-4364-bead-4cd09e6dda93" replaceWith="FrameRoot::UIMgr::docker:ColorPaletteBrowser"/>
+		<activity name="FrameRoot::UIMgr::docker:0750d8df-2c52-43d7-9aa0-9ec2531dfe42" replaceWith="FrameRoot::UIMgr::docker:Guideline"/>
+		<activity name="FrameRoot::UIMgr::docker:a8b139f6-dd44-0883-49e9-8b18d2b16f38" replaceWith="FrameRoot::UIMgr::docker:ObjectSnap"/>
+		<activity name="FrameRoot::UIMgr::docker:174b4265-e813-4427-a8ce-5eb17b327888" replaceWith="FrameRoot::UIMgr::docker:Objects"/>
+		<activity name="FrameRoot::UIMgr::docker:30afc88c-1e67-4b21-9893-73cbb3895bd3" replaceWith="FrameRoot::UIMgr::docker:SymbolManager"/>
+		<activity name="FrameRoot::UIMgr::docker:7ef910da-e881-4f59-86ea-94456da7761d" replaceWith="FrameRoot::UIMgr::docker:BitmapColorMask"/>
+		<activity name="FrameRoot::UIMgr::docker:e6873daf-b5b9-4957-bb78-3335fc8c6054" replaceWith="FrameRoot::UIMgr::docker:Lens"/>
+		<activity name="FrameRoot::UIMgr::docker:bc1e2f70-3b58-41cd-8406-aaa550482972" replaceWith="FrameRoot::UIMgr::docker:Hints"/>
+		<activity name="FrameRoot::UIMgr::docker:76baddcc-6deb-e481-42c6-389833de8d5a" replaceWith="FrameRoot::UIMgr::docker:InsertCharacter"/>
+		<activity name="FrameRoot::UIMgr::docker:957f5aab-d8f9-35aa-4f2c-20c938c7c08b" replaceWith="FrameRoot::UIMgr::docker:FontPlayground"/>
+		<activity name="FrameRoot::UIMgr::docker:aa9dfbd3-74ae-4543-8203-84ad1a1f4d7f" replaceWith="FrameRoot::UIMgr::docker:ColorProofing"/>
+
+		<!-- Readable names for dockers (PP specific) -->
+		<activity name="FrameRoot::UIMgr::docker:0b84ebbd-d222-48e1-8b02-e43a1b9de715" replaceWith="FrameRoot::UIMgr::docker:TextProperties"/>
+		<activity name="FrameRoot::UIMgr::docker:adc05210-e56b-879b-4041-ce18feecd7fd" replaceWith="FrameRoot::UIMgr::docker:AlignAndDistribute"/>
+		<activity name="FrameRoot::UIMgr::docker:69bd36b7-ef46-1299-4942-5b180f7a72e9" replaceWith="FrameRoot::UIMgr::docker:Guideline"/>
+		<activity name="FrameRoot::UIMgr::docker:eab1baa6-b346-d6bf-4bfd-ee296df8d35a" replaceWith="FrameRoot::UIMgr::docker:ObjectSnap"/>
+		<activity name="FrameRoot::UIMgr::docker:7f88ea6f-8ee9-402f-8ea1-9d684b0631aa" replaceWith="FrameRoot::UIMgr::docker:Color"/>
+		<activity name="FrameRoot::UIMgr::docker:7e7f0ae5-5423-40b0-be60-70ca2c8c71cc" replaceWith="FrameRoot::UIMgr::docker:Recorder"/>
+		<activity name="FrameRoot::UIMgr::docker:5a3cd3e4-4c3e-43a1-8fd1-4eb84f075da7" replaceWith="FrameRoot::UIMgr::docker:Objects"/>
+		<activity name="FrameRoot::UIMgr::docker:ad7ed896-d18c-4f15-929a-4352f1cbd82e" replaceWith="FrameRoot::UIMgr::docker:Channels"/>
+		<activity name="FrameRoot::UIMgr::docker:d8ffc57e-1e43-4c4c-8145-ede21f37c188" replaceWith="FrameRoot::UIMgr::docker:ColorPaletteBrowser"/>
+		<activity name="FrameRoot::UIMgr::docker:826d0ef5-6e6c-46b0-a5d8-184a73a94fc7" replaceWith="FrameRoot::UIMgr::docker:Path"/>
+		<activity name="FrameRoot::UIMgr::docker:18d3e0bc-c152-41e9-9819-1f0736cabfbe" replaceWith="FrameRoot::UIMgr::docker:ArtisticMedia"/>
+		<activity name="FrameRoot::UIMgr::docker:7daee8cc-5320-4933-9690-7e611853fb6d" replaceWith="FrameRoot::UIMgr::docker:BrushSettings"/>
+		<activity name="FrameRoot::UIMgr::docker:b5272fd1-9a25-4843-819d-ff1013c6efcb" replaceWith="FrameRoot::UIMgr::docker:UndoManager"/>
+		<activity name="FrameRoot::UIMgr::docker:e5a2525a-d8da-4799-bf09-2b1bad4b4cbb" replaceWith="FrameRoot::UIMgr::docker:ImageSlicing"/>
+		<activity name="FrameRoot::UIMgr::docker:a5c37f7a-65d9-4056-8a10-f53ee71a702e" replaceWith="FrameRoot::UIMgr::docker:Movie"/>
+		<activity name="FrameRoot::UIMgr::docker:e3188d2e-3e00-418f-b276-6f3b6a039764" replaceWith="FrameRoot::UIMgr::docker:Rollover"/>
+		<activity name="FrameRoot::UIMgr::docker:8ae0bb45-132f-4a2a-888c-feac742bf56e" replaceWith="FrameRoot::UIMgr::docker:ImageInfo"/>
+
+		<!-- Readable names for toolbars -->
+		<activity name="FrameRoot::UIMgr::toolbar:ca73b05f-26c8-49ee-88e2-56f4f9945bb4" replaceWith="FrameRoot::UIMgr::toolbar:ParallelLines"/>
+		<activity name="FrameRoot::UIMgr::toolbar:26278692-c566-47cb-83c4-79b58ce69538" replaceWith="FrameRoot::UIMgr::toolbar:Layout"/>
+		<activity name="FrameRoot::UIMgr::toolbar:74e03d83-404c-49f5-824a-fe0fd02ab29a" replaceWith="FrameRoot::UIMgr::toolbar:PropertyBar"/>
+		<activity name="FrameRoot::UIMgr::toolbar:7c905e2a-cb64-4ba1-aff0-c306f392680c" replaceWith="FrameRoot::UIMgr::toolbar:Toolbox"/>
+		<activity name="FrameRoot::UIMgr::toolbar:3cc76550-c8c1-420f-bccb-c5ea2baf2e65" replaceWith="FrameRoot::UIMgr::toolbar:Zoom"/>
+
+		<!-- Readable names for dockers (PP specific) -->
+		<activity name="FrameRoot::UIMgr::toolbar:fd76519e-9440-45a1-8ab8-203b1056d572" replaceWith="FrameRoot::UIMgr::toolbar:PropertyBar"/>
+		<activity name="FrameRoot::UIMgr::toolbar:596f31de-8cb1-4184-b401-d6be7d7aabf2" replaceWith="FrameRoot::UIMgr::toolbar:InternetObjects"/>
+
+
+		<!-- Turn off OnCancel for fontlist since it is an implementation detail and does not indicate ok/cancel -->
+		<activity name="TextObject::FontListDS::OnCancel" notTracked="true"/>
+		<activity name="EditTextDialog::FontListDS::OnCancel" notTracked="true"/>
+		<activity name="TextObjectBullets::FontListDS::OnCancel" notTracked="true"/>
+		<activity name="FontPlaygroundDocker::FontListDS::OnCancel" notTracked="true"/>
+		<activity name="InsertCharacterDocker::FontListDS::OnCancel" notTracked="true"/>
+		<activity name="PanosePreferencesDialog::FontListDS::OnCancel" notTracked="true"/>
+		<activity name="PanoseResultsDialog::FontListDS::OnCancel" notTracked="true"/>
+		<activity name="PanoseExceptionsDialog::FontListDS::OnCancel" notTracked="true"/>
+		<activity name="CreateSymbolDialog::FontListDS::OnCancel" notTracked="true"/>
+		<activity name="FontSelection::FontListDS::OnCancel" notTracked="true"/>
+
+	</activities>
+</tracking>

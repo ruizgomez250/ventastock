@@ -1,0 +1,89 @@
+﻿<?xml version="1.0"?>
+<SpotColorPaletteMapping>
+
+  <mappingUiPolicy policy="0"/>
+  
+  <group name="PANTONE® colors" defaultLibrary="PANTONE® Matching System Library" resId="bf867568-de1a-4586-80ae-341d0c9935ce" showUI="true">
+
+    <library name="PANTONE+ Series Library" resId="cf7169db-5e2c-4c9e-8630-e635d8f511e3">
+      <palette name="PANTONE+ solid coated" guid="6e75244b-d853-4d2e-bea2-a5da3f195d08"/>
+      <palette name="PANTONE+ solid uncoated" guid="c59d10ee-c0a7-4bee-82cf-7401063f7f88"/>
+      <palette name="PANTONE+ Pastels &amp; Neons Coated" guid="978463a2-0b90-4f87-8d5b-7220fbd06768" mapToGuid="6e75244b-d853-4d2e-bea2-a5da3f195d08"/>
+      <palette name="PANTONE+ Pastels &amp; Neons Uncoated" guid="cd6f12ce-e9f6-4167-b12a-e6606c992be7" mapToGuid="c59d10ee-c0a7-4bee-82cf-7401063f7f88"/>
+    </library>
+
+    <library name="PANTONE® Matching System Library" resId="cb464350-57af-4e71-8a52-4d5225803e49">
+      <palette name="PANTONE® solid coated" guid="fc6ccd74-10a8-4152-8901-a51facb47785"/>
+      <palette name="PANTONE® solid uncoated" guid="00b89aef-401b-4668-bf60-bd6fef653bdd"/>
+      <palette name="PANTONE® pastel coated" guid="ee7f28c9-e123-4292-9a36-3567a3b96753"/>
+      <palette name="PANTONE® pastel uncoated" guid="a4e9990e-f1cc-4fae-9d93-53dcedb4261a"/>
+    </library>
+
+  </group>
+  
+  <resource id="cf7169db-5e2c-4c9e-8630-e635d8f511e3">
+    <EN>PANTONE+ Series Library</EN>
+    <BR>PANTONE+ Series Library</BR>
+     <CS>PANTONE+ Series Library</CS>
+      <CT>PANTONE+ Series Library</CT>
+      <CZ>PANTONE+ Series Library</CZ>
+     <DE>PANTONE+ Series Library</DE>
+      <ES>PANTONE+ Series Library</ES>
+     <FR>PANTONE+ Series Library</FR>
+     <IT>PANTONE+ Series Library</IT>
+    <JP>PANTONE+ Series Library</JP>
+      <KR>PANTONE+ Series Library</KR>
+      <MA>PANTONE+ Series Library</MA>
+      <NL>PANTONE+ Series Library</NL>
+      <PL>PANTONE+ Series Library</PL>
+      <RU>PANTONE+ Series Library</RU>
+     <SU>PANTONE+ Series Library</SU>
+      <SV>PANTONE+ Series Library</SV>
+      <TR>PANTONE+ Series Library</TR>
+  </resource>
+
+
+  <resource id="cb464350-57af-4e71-8a52-4d5225803e49">
+    <EN>PANTONE® Matching System Library</EN>  
+    <BR>PANTONE® Matching System Library</BR>
+    <CS>PANTONE® Matching System Library</CS>
+    <CT>PANTONE® Matching System Library</CT>
+    <CZ>PANTONE® Matching System Library</CZ>
+    <DE>PANTONE® Matching System Library</DE>
+    <ES>PANTONE® Matching System Library</ES>
+    <FR>PANTONE® Matching System Library</FR>
+    <IT>PANTONE® Matching System Library</IT>
+    <JP>PANTONE® Matching System Library</JP>
+    <KR>PANTONE® Matching System Library</KR>
+   <MA>PANTONE® Matching System Library</MA>
+   <NL>PANTONE® Matching System Library</NL>
+    <PL>PANTONE® Matching System Library</PL>
+   <RU>PANTONE® Matching System Library</RU>
+    <SU>PANTONE® Matching System Library</SU>
+    <SV>PANTONE® Matching System Library</SV>
+    <TR>PANTONE® Matching System Library</TR>
+</resource>
+  
+  <resource id="bf867568-de1a-4586-80ae-341d0c9935ce">
+    <EN>PANTONE Colors:</EN>
+    <BR>Cores PANTONE:</BR>
+    <CS>PANTONE 颜色:</CS>
+    <CT>PANTONE 色彩:</CT>
+    <CZ>Barvy PANTONE:</CZ>
+    <DE>PANTONE-Farben:</DE>
+    <ES>Colores PANTONE:</ES>
+    <FR>Couleurs PANTONE:</FR>
+    <IT>Colori PANTONE:</IT>
+    <JP>PANTONE カラー:</JP>
+    <KR>PANTONE 색상:</KR>
+    <MA>PANTONE színek:</MA>
+    <NL>PANTONE-kleuren:</NL>
+    <PL>Kolory PANTONE:</PL>
+    <RU>Цвета PANTONE:</RU>
+    <SU>PANTONE-värit:</SU>
+    <SV>PANTONE-färger:</SV>
+    <TR>PANTONE Renkleri:</TR>
+  </resource>
+
+</SpotColorPaletteMapping>
+
